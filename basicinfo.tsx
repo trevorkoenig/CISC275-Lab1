@@ -8,4 +8,4 @@ const yourMajor : String = "Computer Science";
 let classification : String = "Senior";
 let oneExcite : String = "Learning and using software development skills";
 let anyConcerns : String = "Procrastination";
-let funFact : String = "I have a hedgehog named Chickpea";
+let funFact : String = "I own a hedgehog named Chickpea";
